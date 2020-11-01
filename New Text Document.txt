@@ -1,1 +1,2 @@
 why readme md is missing
+bug fixed
